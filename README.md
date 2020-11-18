@@ -1,4 +1,4 @@
-# Anderson Francisco
+# Wilson Maiangani Kiangana
 
 
 
@@ -7,7 +7,7 @@
 ##### - Eternal apprentice, but always hands on.
 
 <!--
-**Anderson Francisco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Wilson Kiangana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -39,14 +39,14 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<p><img src="https://komarev.com/ghpvc/?username=andersonigfrancisco" alt="Anderson Francisco" /> </p>
+<p><img src="https://komarev.com/ghpvc/?username=WilsonMaiangani" alt="Wilson Maiangani" /> </p>
   
 
 
-<p><img src="https://komarev.com/ghpvc/?username=andersonigfrancisco" alt="Anderson Francisco" /> </p>
+<p><img src="https://komarev.com/ghpvc/?username=WilsonMaiangani" alt="Wilson Maiangani" /> </p>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonigfrancisco&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilsonMaiangani&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <img align="right" src="https://github.com/AlienDev66/AlienDev66/blob/master/undraw_developer_activity_bv83.svg" alt="Illustration of AlienDev66" width=265px height=265px/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=andersonigfrancisco&show_icons=true" alt="andersonigfrancisco-status" />
+<img src="https://github-readme-stats.vercel.app/api?username=WilsonMaiangani&show_icons=true" alt="WilsonMaiangani-status" />
